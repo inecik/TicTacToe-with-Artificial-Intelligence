@@ -1,3 +1,3 @@
 # Play Tic-Tac-Toe against computer
-Computer uses minimax algorithm to decide its move!
+Minimax algorithm is implemented to decide computer move.
 Run runner.py to start!
